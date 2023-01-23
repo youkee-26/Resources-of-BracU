@@ -1,0 +1,10 @@
+KLM
+Remaining patients: SDF, ABC, EWQ
+SDF
+Remaining patients: ABC, EWQ
+FDS
+Remaining patients: ABC, EWQ, OPN, TYU
+XCV
+Remaining patients: ABC, EWQ, OPN, TYU
+ABC
+Remaining patients: EWQ, OPN, TYU
